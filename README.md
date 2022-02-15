@@ -23,7 +23,7 @@ I'm a Software Developer from Brazil 🇧🇷 with 6 years of experience.
   ##
  
 <div> 
-  <a href="https://instagram.com/hassuriel" target="_blank">
+  <a href="https://instagram.com/urielhass" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="mailto:dev.urielhass@gmail.com">
