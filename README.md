@@ -1,6 +1,6 @@
 ## Hello world!
 
-I'm a Software Developer from Brazil 🇧🇷 with 6 years of experience.
+I'm a Software Developer from Brazil 🇧🇷 with 7 years of experience.
 
 - I'm currently working as front end software enginer at [Conta Azul](https://contaazul.com/)
 
