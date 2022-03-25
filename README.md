@@ -4,11 +4,7 @@ I'm a Software Developer from Brazil 🇧🇷 with 7 years of experience.
 
 - I'm currently working as front end software enginer at [Conta Azul](https://contaazul.com/)
 
-<div align="center">
-  <a href="https://github.com/urielhass">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=urielhass&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=urielhass&layout=compact&langs_count=7&"/>
-</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
