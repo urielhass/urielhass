@@ -30,3 +30,6 @@ I'm a Software Developer from Brazil 🇧🇷 with 7 years of experience.
   </a>
  
 </div>
+  
+![Uriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=urielhass&count_private=true&hide=prs,issues,contribs)
+
