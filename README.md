@@ -2,7 +2,7 @@
 
 I'm a Software Developer from Brazil 🇧🇷 with 7 years of experience.
 
-- I'm currently working as software enginer at [Conta Azul](https://contaazul.com/)
+- I'm currently working as software enginer at [Project Mark](https://projectmark.com/)
 
 
 <div style="display: inline_block"><br>
